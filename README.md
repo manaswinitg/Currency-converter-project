@@ -20,23 +20,7 @@ A sleek and user-friendly currency conversion tool built with Python and Tkinter
 - Python 3.6+
 - pip (Python package manager)
 
-### Installation
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/KoustavDeveloper/currency-converter.git
-   cd currency-converter
-   ```
-
-2. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Run the application:
-   ```
-   python main.py
-   ```
 
 ## 🔧 Usage
 
@@ -59,17 +43,6 @@ Contributions are welcome! Here are some ways you can contribute to this project
 - Submit pull requests with bug fixes or new functionality
 
 
-## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## 🙏 Acknowledgments
-
-- Exchange rate data provided by [x-rates.com](https://www.x-rates.com/)
-- Icon made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com/)
-
-## 📞 Contact
-
-If you have any questions, feel free to reach out to us at [Koustav Singh](koustavsinghcollege@gmail.com).
 
 Happy converting! 💰✨
